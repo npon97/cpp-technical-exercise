@@ -11,3 +11,8 @@
 3. Change into the build directory
 4. Run `cmake ..` and `make -j4` to configure and build using g++.
 5. The executable is stored in the `build` directory.
+
+## Tests
+```bash
+sudo apt-get install libcunit1 libcunit1-dev
+```

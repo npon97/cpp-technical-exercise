@@ -1,9 +1,2143 @@
-[2023-08-14T15:40:57]	[Info]	Hello
-[2023-08-14T15:50:12]	[Trace]	Starting accelerometer reading...
-[2023-08-14T15:55:19]	[Trace]	Starting accelerometer reading...
-[2023-08-14T15:55:50]	[Trace]	Starting accelerometer reading...
-[2023-08-14T15:57:34]	[Trace]	Starting accelerometer reading...
-[2023-08-14T16:01:19]	[Trace]	Starting accelerometer reading...
-[2023-08-14T17:26:14]	[Trace]	Starting accelerometer reading...
-[2023-08-14T17:27:37]	[Trace]	Starting accelerometer reading...
-[2023-08-14T17:47:19]	[Trace]	Starting accelerometer reading...
+[2023-08-14T18:45:47]	[Trace]	Starting accelerometer reading...
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 64
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 25
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 27
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 61
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 22
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A3
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 61
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 22
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 25
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 64
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 22
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 62
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 64
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 61
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 61
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 61
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 9F
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 64
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A3
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 61
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A3
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A3
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 64
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 22
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 61
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 64
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 25
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 62
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 67
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 61
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 9F
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 9E
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 65
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 27
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 75
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 69
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 8E
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 61
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 57
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 8E
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 68
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 37
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 22
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 77
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 77
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 94
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 8E
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 61
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 8C
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 37
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 6D
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 71
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 59
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 89
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 4F
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 62
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 80
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 3E
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 2B
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 61
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 7B
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 62
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 22
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 69
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 65
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 57
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 3C
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 35
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 27
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 25
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 22
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 9E
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 5E
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 54
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 5F
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 5C
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 73
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A2
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 75
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 75
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 76
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 64
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 68
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 5D
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 27
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 35
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 68
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 61
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 55
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 62
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 90
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 59
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 75
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 37
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 46
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 27
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 66
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 22
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 22
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 65
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 64
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 60
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = A5
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 63
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 64
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 21
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 64
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 27
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 6A
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 56
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 58
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 80
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 38
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 25
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 9F
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 24
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 55
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 68
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 6B
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 27
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 5F
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 8F
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 8F
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 7A
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 78
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 5A
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 5A
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 65
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 22
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 23
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 56
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 8E
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 2B
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 2A
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 29
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 65
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 27
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 2B
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 26
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 6A
+[2023-08-14T18:46:00]	[Debug]	Invalid input
+[2023-08-14T18:46:00]	[Trace]	sum = 26
+[2023-08[2023-08-14T20:42:00]	[Trace]	Starting accelerometer reading...
+[2023-08-14T20:42:04]	[Trace]	Message: #G400000003D65
+[2023-08-14T20:42:04]	[Trace]	sum = 65, expected checksum = 65
+[2023-08-14T20:42:07]	[Trace]	Message: #G4FFFFFF03CE8
+[2023-08-14T20:42:07]	[Trace]	sum = E8, expected checksum = E8
+[2023-08-14T20:42:11]	[Trace]	Message: #G400000003D65
+[2023-08-14T20:42:11]	[Trace]	sum = 65, expected checksum = 65
+[2023-08-14T20:42:13]	[Trace]	Message: #G4FFFFFF03EEA
+[2023-08-14T20:42:13]	[Trace]	sum = EA, expected checksum = EA
+[2023-08-14T20:42:14]	[Trace]	Message: #G400000003D65
+[2023-08-14T20:42:14]	[Trace]	sum = 65, expected checksum = 65
+[2023-08-14T20:42:15]	[Trace]	Message: #G400000003E66
+[2023-08-14T20:42:15]	[Trace]	sum = 66, expected checksum = 66
+[2023-08-14T20:42:16]	[Trace]	Message: #G400000003D65
+[2023-08-14T20:42:16]	[Trace]	sum = 65, expected checksum = 65
+[2023-08-14T20:42:18]	[Trace]	Message: #G400000003E66
+[2023-08-14T20:42:18]	[Trace]	sum = 66, expected checksum = 66
+[2023-08-14T20:42:19]	[Trace]	Message: #G400000003D65
+[2023-08-14T20:42:19]	[Trace]	sum = 65, expected checksum = 65
+[2023-08-14T20:42:20]	[Trace]	Message: #G400000003D64
+[2023-08-14T20:42:20]	[Trace]	sum = 65, expected checksum = 64
+[2023-08-14T20:42:20]	[Error]	Checksum unmatched
+[2023-08-14T20:42:20]	[Trace]	Message: #G4000FFF03DA7
+[2023-08-14T20:42:20]	[Trace]	sum = A7, expected checksum = A7
+[2023-08-14T20:42:33]	[Trace]	Message: #G4000FFF03DA7
+[2023-08-14T20:42:33]	[Trace]	sum = A7, expected checksum = A7
+[2023-08-14T20:42:34]	[Trace]	Message: #G400000003D65
+[2023-08-14T20:42:34]	[Trace]	sum = 65, expected checksum = 65
+[2023-08-14T20:42:36]	[Trace]	Message: #G400000003F67
+[2023-08-14T20:42:36]	[Trace]	sum = 67, expected checksum = 67
+[2023-08-14T20:42:37]	[Trace]	Message: #G4000FFF03DA7
+[2023-08-14T20:42:37]	[Trace]	sum = A7, expected checksum = A7
+[2023-08-14T20:42:38]	[Trace]	Message: #G4000FFF03DA7
+[2023-08-14T20:42:38]	[Trace]	sum = A7, expected checksum = A7
+[2023-08-14T20:42:39]	[Trace]	Message: #G400000003859
+[2023-08-14T20:42:39]	[Trace]	sum = 59, expected checksum = 59
+[2023-08-14T20:42:39]	[Trace]	Message: #G400000003D65
+[2023-08-14T20:42:39]	[Trace]	sum = 65, expected checksum = 65
+[2023-08-14T20:42:40]	[Trace]	Message: #G4000FFF03DA7
+[2023-08-14T20:42:40]	[Trace]	sum = A7, expected checksum = A7
+[2023-08-14T20:42:40]	[Trace]	Message: #G400000003C64
+[2023-08-14T20:42:40]	[Trace]	sum = 64, expected checksum = 64
+[2023-08-14T20:42:41]	[Trace]	Message: #G4000FFF03CA6
+[2023-08-14T20:42:41]	[Trace]	sum = A6, expected checksum = A6
+[2023-08-14T20:42:42]	[Trace]	Message: #G400000003C64
+[2023-08-14T20:42:42]	[Trace]	sum = 64, expected checksum = 64
+[2023-08-14T20:42:42]	[Trace]	Message: #G400000003E66
+[2023-08-14T20:42:42]	[Trace]	sum = 66, expected checksum = 66
+[2023-08-14T20:42:43]	[Trace]	Message: #G400000003E66
+[2023-08-14T20:42:43]	[Trace]	sum = 66, expected checksum = 66
+[2023-08-14T20:42:43]	[Trace]	Message: #G4000FFF03EA8
+[2023-08-14T20:42:43]	[Trace]	sum = A8, expected checksum = A8
+[2023-08-14T20:42:43]	[Trace]	Message: #G400000003D65
+[2023-08-14T20:42:43]	[Trace]	sum = 65, expected checksum = 65
+[2023-08-14T20:42:44]	[Trace]	Message: #G4000FFF03EA8
+[2023-08-14T20:42:44]	[Trace]	sum = A8, expected checksum = A8
+[2023-08-14T20:42:44]	[Trace]	Message: #G4000FFF03CA6
+[2023-08-14T20:42:44]	[Trace]	sum = A6, expected checksum = A6
+[2023-08-14T20:42:45]	[Trace]	Message: #G4FFF00003EA8
+[2023-08-14T20:42:45]	[Trace]	sum = A8, expected checksum = A8
+[2023-08-14T20:42:45]	[Trace]	Message: #G400300003E69
+[2023-08-14T20:42:45]	[Trace]	sum = 69, expected checksum = 69
+[2023-08-14T20:42:46]	[Trace]	Message: #G4000FFF03DA7
+[2023-08-14T20:42:46]	[Trace]	sum = A7, expected checksum = A7
+[2023-08-14T20:42:46]	[Trace]	Message: #G400000003D65
+[2023-08-14T20:42:46]	[Trace]	sum = 65, expected checksum = 65
+[2023-08-14T20:42:47]	[Trace]	Message: #G400000003D65
+[2023-08-14T20:42:47]	[Trace]	sum = 65, expected checksum = 65
+[2023-08-14T20:42:47]	[Trace]	Message: #G4000FFF03CA6
+[2023-08-14T20:42:47]	[Trace]	sum = A6, expected checksum = A6
+[2023

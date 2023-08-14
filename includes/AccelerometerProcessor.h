@@ -6,6 +6,8 @@
 #include <sstream>
 #include <fstream>
 #include "logger.h"
+#include "config.h"
+#include "custom_time.h"
 
 class AccelerometerProcessor
 {
@@ -19,7 +21,8 @@ private:
 
     bool enableZAxisOffset; // Flag to enable Z-axis offset
 
-    std::vector<std::string> extractAccelerometerMessages(const std::string &chunk);
+    int convertToInt(const std::string& str);
+    bool isNumeric(const std::string& str);
 
 public:
     AccelerometerProcessor();
@@ -29,6 +32,8 @@ public:
 
     // Method for parsing and processing accelerometer data messages
     void processAccelerometerData(const std::string &filename);
+
+    uint8_t calculateChecksum(const std::string& message);
 
     // Method for writing statistics to output
     void writeStatistics();

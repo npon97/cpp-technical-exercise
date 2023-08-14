@@ -13,29 +13,26 @@ AccelerometerProcessor::AccelerometerProcessor()
     enableZAxisOffset = false; // Default: Z-axis offset is disabled
 }
 
-AccelerometerProcessor::~AccelerometerProcessor() {};
+AccelerometerProcessor::~AccelerometerProcessor(){};
 
 void AccelerometerProcessor::enableZOffset(bool enable)
 {
     enableZAxisOffset = enable;
 }
 
-std::vector<std::string>
-AccelerometerProcessor::extractAccelerometerMessages(const std::string &chunk)
-{
-    std::vector<std::string> messages;
-    std::stringstream ss(chunk);
-
-    std::string line;
-    while (std::getline(ss, line))
-    {
-        if (line.find("ACCEL:") != std::string::npos)
-        {
-            messages.push_back(line);
+bool AccelerometerProcessor::isNumeric(const std::string& str) {
+    for (char c : str) {
+        if (!isdigit(c) && !(c >= 'A' && c <= 'F') && !(c >= 'a' && c <= 'f')) {
+            return false;
         }
     }
+    return true;
+}
 
-    return messages;
+
+int AccelerometerProcessor::convertToInt(const std::string &str)
+{
+    return std::stoi(str, nullptr, 16);
 }
 
 // Method for parsing and processing accelerometer data messages
@@ -53,30 +50,76 @@ void AccelerometerProcessor::processAccelerometerData(const std::string &filenam
     while (std::getline(file, line))
     {
         // Ignore lines that don't match the expected format
-        if (line.size() != 15 || line[0] != '#' || line[line.size() - 1] != '\n')
+        if (line.size() != 15 ||
+            line[0] != '#' || line[1] != 'G' || line[2] != '4' ||
+            line[line.size() - 1] != '\r')
             continue;
 
-        // Remove the '\n' and '\r' character at the end of the line
-        line.pop_back();
+        // Remove the '\r' character at the end of the line
         line.pop_back();
         lines.push_back(line);
     }
 
     file.close();
 
+    std::ofstream outputFile(OUTPUTFILENAME);
     for (const std::string &message : lines)
     {
-        std::string characters = message.substr(2, 4); // Extract characters from index 2 to 5 (inclusive)
-        int sum = 0;
-        for (char c : characters)
+        uint8_t sum = calculateChecksum(message);
+        std::string str = message.substr(12, 12);
+        int convertedInt;
+        if (str.length() == 2 && isNumeric(str))
         {
-            sum += static_cast<int>(c);
+            convertedInt = convertToInt(str);
         }
-        Logger::Trace("sum = %d", sum);
+        else
+        {
+            Logger::Debug("Invalid input: %s", str);
+            continue;
+        }
+
+        Logger::Trace("Message: %s", message.c_str());
+        Logger::Trace("sum = %X, expected checksum = %X", sum, convertedInt);
+        if (sum != convertedInt)
+        {
+            Logger::Error("Checksum unmatched");
+            continue;
+        }
+
+        std::string x = message.substr(3, 4);
+        std::string y = message.substr(5, 6);
+        std::string z = message.substr(7, 8);
+
+        // if (outputFile.is_open()) {
+        //     outputFile << getCurrentTimestamp() << std::endl;
+        //     outputFile << "X=" << std::fixed << std::setprecision(2) << xAxisValue << ", ";
+        //     outputFile << "Y=" << std::fixed << std::setprecision(2) << yAxisValue << ", ";
+        //     outputFile << "Z=" << std::fixed << std::setprecision(2) << zAxisValue << std::endl;
+        //     outputFile.close();
+        // } else {
+        //     Logger::Critical("Unable to open output file.");
+        // }
+
+        continue;
     }
 
     // Additional processing or actions after processing all accelerometer messages
     // ...
+
+    return;
+}
+
+uint8_t AccelerometerProcessor::calculateChecksum(const std::string &message)
+{
+    std::string characters = message.substr(0, 12); // Extract characters from index 2 to 5 (inclusive)
+
+    uint8_t sum = 0;
+    for (char c : characters)
+    {
+        sum += static_cast<uint8_t>(c);
+    }
+
+    return sum;
 }
 
 // Method for writing statistics to output
