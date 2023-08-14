@@ -5,7 +5,8 @@ set(CMAKE_BUILD_TYPE Debug)
 set(SAMPLE_DATA_FILENAME "${PROJECT_SOURCE_DIR}/data/sample_data.txt")
 set(LOGFILENAME "${PROJECT_SOURCE_DIR}/logs/log1.txt")
 set(OUTPUTFILENAME "${PROJECT_SOURCE_DIR}/data/output.txt")
-set(CMAKE_CXX_STANDARD 17)           # Sets the CMAKE_CXX_STANDARD variable to the value of 17
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
 configure_file(
     "${PROJECT_SOURCE_DIR}/templates/config.h.in" 
     "${PROJECT_SOURCE_DIR}/includes/config.h")

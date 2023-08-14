@@ -2,6 +2,7 @@
 #define CUSTOM_TIME_H_
 
 #include <iomanip>
+#include <sstream>
 
 std::string getCurrentTimestamp();
 

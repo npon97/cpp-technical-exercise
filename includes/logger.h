@@ -52,7 +52,7 @@ private:
             char buffer[80];
             strftime(buffer, 80, "%FT%T", timestamp);
 
-            std::scoped_lock lock(logMutex);
+            std::lock_guard<std::mutex> lock(logMutex);
             printf("[%s]\t", buffer);
             printf(messagePriorityStr);
             printf("\t");
