@@ -25,6 +25,7 @@ private:
     int convertToInt(const std::string& str);
     float convertToGs(int value);
     bool isNumeric(const std::string& str);
+    int convertToDecimal(int value);
 
 public:
     AccelerometerProcessor();

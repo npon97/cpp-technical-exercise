@@ -72,6 +72,7 @@ void AccelerometerProcessor::processAccelerometerData(const std::string &filenam
     file.close();
 
     std::ofstream outputFile(OUTPUTFILENAME);
+    outputFile << getCurrentTimestamp() << std::endl;
     int yThresholdCount = 0;
     for (const std::string &message : lines)
     {
@@ -100,23 +101,23 @@ void AccelerometerProcessor::processAccelerometerData(const std::string &filenam
         std::string y = message.substr(6, 3);
         std::string z = message.substr(9, 3);
 
-        // First parse the string, then cast to 16 bit signed then to gravity units (g).
+        // First parse the string, then cast to int, then interpret 2s complement in
+        // convert to decimal then convert to gravity units (g).
         float xAxisValue, yAxisValue, zAxisValue;
-        xAxisValue = convertToGs(static_cast<int16_t>(convertToInt(x)));
-        yAxisValue = convertToGs(static_cast<int16_t>(convertToInt(y)));
-        zAxisValue = convertToGs(static_cast<int16_t>(convertToInt(z)));
+        xAxisValue = convertToGs(convertToDecimal(convertToInt(x)));
+        yAxisValue = convertToGs(convertToDecimal(convertToInt(y)));
+        zAxisValue = convertToGs(convertToDecimal(convertToInt(z)));
 
-        if (yAxisValue > Y_THRESHOLD)
+        if (yAxisValue > Y_THRESHOLD || yAxisValue < -1*Y_THRESHOLD) // Checking absolute
             yThresholdCount++;
         else
             yThresholdCount = 0;
 
         if (outputFile.is_open())
         {
-            outputFile << getCurrentTimestamp() << std::endl;
             outputFile << "X=" << std::fixed << std::setprecision(2) << xAxisValue << ", ";
             outputFile << "Y=" << std::fixed << std::setprecision(2) << yAxisValue << ", ";
-            outputFile << "Z=" << std::fixed << std::setprecision(2) << zAxisValue << " ";
+            outputFile << "Z=" << std::fixed << std::setprecision(2) << zAxisValue;
             if (yThresholdCount == 3)
                 outputFile << "[ALERT]";
             outputFile << std::endl;
@@ -133,6 +134,22 @@ void AccelerometerProcessor::processAccelerometerData(const std::string &filenam
 
     return;
 }
+
+int AccelerometerProcessor::convertToDecimal(int value) {
+  // Check if the value is negative
+  bool isNegative = (value & 0x800) != 0;
+
+  // If negative, perform 2's complement
+  if (isNegative) {
+    value = value - 1;
+    value = ~value;
+    value = value & 0xFFF;
+    value = -value;
+  }
+
+  return value;
+}
+
 
 uint8_t AccelerometerProcessor::calculateChecksum(const std::string &message)
 {
