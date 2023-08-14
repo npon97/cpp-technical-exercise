@@ -1,12 +1,12 @@
 #include <stdio.h>
-#include <fstream>
 #include "string.h"
+#include "config.h"
+#include "logger.h"
 
 int main() {
-    std::ifstream file("sample_data.txt");
     char buffer[16];
-    while (file.read(buffer, 16)) {
-        // Process buffer
-    }
+    Logger::EnableFileOutput(LOGFILENAME);
+
+    Logger::Info("Hello");
 }
 
