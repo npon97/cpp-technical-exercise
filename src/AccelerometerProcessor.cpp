@@ -18,6 +18,7 @@ AccelerometerProcessor::~AccelerometerProcessor(){};
 void AccelerometerProcessor::enableZOffset(bool enable)
 {
     enableZAxisOffset = enable;
+    Logger::Warn("Z offset enabled");
 }
 
 bool AccelerometerProcessor::isNumeric(const std::string &str)

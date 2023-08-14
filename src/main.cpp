@@ -16,7 +16,7 @@ int main(int argc, char** argv)
     AccelerometerProcessor *processor = new AccelerometerProcessor();
 
     int opt;
-    while ((opt = getopt(argc, argv, "z:")) != -1)
+    while ((opt = getopt(argc, argv, "z")) != -1)
     {
         switch (opt)
         {
