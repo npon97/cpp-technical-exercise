@@ -134,8 +134,10 @@ void AccelerometerProcessor::processAccelerometerData(const std::string &filenam
             outputFile << "X=" << std::fixed << std::setprecision(2) << xAxisValue << ", ";
             outputFile << "Y=" << std::fixed << std::setprecision(2) << yAxisValue << ", ";
             outputFile << "Z=" << std::fixed << std::setprecision(2) << zAxisValue;
-            if (yThresholdCount == 3)
+            if (yThresholdCount == 3){
                 outputFile << "[ALERT]";
+                alertsCount++;
+            }
             outputFile << std::endl;
         }
         else
@@ -146,6 +148,7 @@ void AccelerometerProcessor::processAccelerometerData(const std::string &filenam
         continue;
     }
 
+    writeStatistics();
     outputFile.close();
 
     return;
