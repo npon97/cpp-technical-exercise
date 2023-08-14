@@ -20,19 +20,28 @@ void AccelerometerProcessor::enableZOffset(bool enable)
     enableZAxisOffset = enable;
 }
 
-bool AccelerometerProcessor::isNumeric(const std::string& str) {
-    for (char c : str) {
-        if (!isdigit(c) && !(c >= 'A' && c <= 'F') && !(c >= 'a' && c <= 'f')) {
+bool AccelerometerProcessor::isNumeric(const std::string &str)
+{
+    for (char c : str)
+    {
+        if (!isdigit(c) && !(c >= 'A' && c <= 'F') && !(c >= 'a' && c <= 'f'))
+        {
             return false;
         }
     }
     return true;
 }
 
-
 int AccelerometerProcessor::convertToInt(const std::string &str)
 {
     return std::stoi(str, nullptr, 16);
+}
+
+float AccelerometerProcessor::convertToGs(int value)
+{
+    // Convert the 12-bit integer to Gs
+    float gsValue = static_cast<float>(value) / 0x40;
+    return gsValue;
 }
 
 // Method for parsing and processing accelerometer data messages
@@ -63,10 +72,11 @@ void AccelerometerProcessor::processAccelerometerData(const std::string &filenam
     file.close();
 
     std::ofstream outputFile(OUTPUTFILENAME);
+    int yThresholdCount = 0;
     for (const std::string &message : lines)
     {
         uint8_t sum = calculateChecksum(message);
-        std::string str = message.substr(12, 12);
+        std::string str = message.substr(12, 2);
         int convertedInt;
         if (str.length() == 2 && isNumeric(str))
         {
@@ -86,25 +96,40 @@ void AccelerometerProcessor::processAccelerometerData(const std::string &filenam
             continue;
         }
 
-        std::string x = message.substr(3, 4);
-        std::string y = message.substr(5, 6);
-        std::string z = message.substr(7, 8);
+        std::string x = message.substr(3, 3);
+        std::string y = message.substr(6, 3);
+        std::string z = message.substr(9, 3);
 
-        // if (outputFile.is_open()) {
-        //     outputFile << getCurrentTimestamp() << std::endl;
-        //     outputFile << "X=" << std::fixed << std::setprecision(2) << xAxisValue << ", ";
-        //     outputFile << "Y=" << std::fixed << std::setprecision(2) << yAxisValue << ", ";
-        //     outputFile << "Z=" << std::fixed << std::setprecision(2) << zAxisValue << std::endl;
-        //     outputFile.close();
-        // } else {
-        //     Logger::Critical("Unable to open output file.");
-        // }
+        // First parse the string, then cast to 16 bit signed then to gravity units (g).
+        float xAxisValue, yAxisValue, zAxisValue;
+        xAxisValue = convertToGs(static_cast<int16_t>(convertToInt(x)));
+        yAxisValue = convertToGs(static_cast<int16_t>(convertToInt(y)));
+        zAxisValue = convertToGs(static_cast<int16_t>(convertToInt(z)));
+
+        if (yAxisValue > Y_THRESHOLD)
+            yThresholdCount++;
+        else
+            yThresholdCount = 0;
+
+        if (outputFile.is_open())
+        {
+            outputFile << getCurrentTimestamp() << std::endl;
+            outputFile << "X=" << std::fixed << std::setprecision(2) << xAxisValue << ", ";
+            outputFile << "Y=" << std::fixed << std::setprecision(2) << yAxisValue << ", ";
+            outputFile << "Z=" << std::fixed << std::setprecision(2) << zAxisValue << " ";
+            if (yThresholdCount == 3)
+                outputFile << "[ALERT]";
+            outputFile << std::endl;
+        }
+        else
+        {
+            Logger::Critical("Unable to open output file.");
+        }
 
         continue;
     }
 
-    // Additional processing or actions after processing all accelerometer messages
-    // ...
+    outputFile.close();
 
     return;
 }
