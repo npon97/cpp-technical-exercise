@@ -39,7 +39,7 @@ int AccelerometerProcessor::convertToInt(const std::string &str)
 
 float AccelerometerProcessor::convertToGs(int value)
 {
-    // Convert the 12-bit integer to Gs
+    // Convert the 12-bit integer representation to Gs
     float gsValue = static_cast<float>(value) / 0x40;
     return gsValue;
 }
@@ -94,8 +94,12 @@ void AccelerometerProcessor::processAccelerometerData(const std::string &filenam
         if (sum != convertedInt)
         {
             Logger::Error("Checksum unmatched");
+            invalidChecksumCount++;
             continue;
         }
+
+        // At this point the message is a valid accelerometer message
+        validMessagesCount++;
 
         std::string x = message.substr(3, 3);
         std::string y = message.substr(6, 3);
@@ -108,11 +112,23 @@ void AccelerometerProcessor::processAccelerometerData(const std::string &filenam
         yAxisValue = convertToGs(convertToDecimal(convertToInt(y)));
         zAxisValue = convertToGs(convertToDecimal(convertToInt(z)));
 
-        if (yAxisValue > Y_THRESHOLD || yAxisValue < -1*Y_THRESHOLD) // Checking absolute
+        if (yAxisValue > Y_THRESHOLD || yAxisValue < -1 * Y_THRESHOLD) // Checking absolute
             yThresholdCount++;
         else
             yThresholdCount = 0;
 
+        if (enableZAxisOffset)
+            zAxisValue += 1;
+
+        // Check maximum values
+        if (xAxisValue > maxX)
+            maxX = xAxisValue;
+        if (yAxisValue > maxY)
+            maxY = yAxisValue;
+        if (zAxisValue > maxZ)
+            maxZ = zAxisValue;
+
+        // Print to output file
         if (outputFile.is_open())
         {
             outputFile << "X=" << std::fixed << std::setprecision(2) << xAxisValue << ", ";
@@ -135,21 +151,22 @@ void AccelerometerProcessor::processAccelerometerData(const std::string &filenam
     return;
 }
 
-int AccelerometerProcessor::convertToDecimal(int value) {
-  // Check if the value is negative
-  bool isNegative = (value & 0x800) != 0;
+int AccelerometerProcessor::convertToDecimal(int value)
+{
+    // Check if the value is negative
+    bool isNegative = (value & 0x800) != 0;
 
-  // If negative, perform 2's complement
-  if (isNegative) {
-    value = value - 1;
-    value = ~value;
-    value = value & 0xFFF;
-    value = -value;
-  }
+    // If negative, perform 2's complement
+    if (isNegative)
+    {
+        value = value - 1;
+        value = ~value;
+        value = value & 0xFFF;
+        value = -value;
+    }
 
-  return value;
+    return value;
 }
-
 
 uint8_t AccelerometerProcessor::calculateChecksum(const std::string &message)
 {

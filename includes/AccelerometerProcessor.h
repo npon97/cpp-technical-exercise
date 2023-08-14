@@ -13,13 +13,13 @@ class AccelerometerProcessor
 {
 private:
     const float Y_THRESHOLD = 0.2; 
-
-    int validMessagesCount;   // Total number of valid accelerometer messages parsed
-    int invalidChecksumCount; // Total number of accelerometer messages with an invalid checksum
+    
+    unsigned int validMessagesCount;   // Total number of valid accelerometer messages parsed
+    unsigned int invalidChecksumCount; // Total number of accelerometer messages with an invalid checksum
     float maxX;               // Maximum value of the X-axis
     float maxY;               // Maximum value of the Y-axis
     float maxZ;               // Maximum value of the Z-axis
-    int alertsCount;          // Total number of alerts encountered
+    unsigned int alertsCount;          // Total number of alerts encountered
     bool enableZAxisOffset;   // Flag to enable Z-axis offset
 
     int convertToInt(const std::string& str);
