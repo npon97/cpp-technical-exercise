@@ -11,10 +11,11 @@
 3. Change into the build directory.
 4. Run `cmake .. && make -j4` to configure and build using g++.
 5. The executable is stored in the `build` directory.
-6. Run that executable with `./accelerometer_driver`
+6. Run that executable with `./accelerometer_driver -z` (with optional `-z` flag when
+ a z-offset is wanted).
 
 ## File info
-* `data/output.txt` stores the X, Y and Z accelerometer values.
-* `logs/log1.txt` stores the last output of the standard output stream.
+* `data/output.txt` stores the X, Y and Z accelerometer values (with a z-offset).
+* `logs/log1.txt` stores the last output of the standard output stream (with a z-offset).
 * `includes/logger.h` is a thread safe logger with multiple log levels if this project
  needs to be scaled.
