@@ -1,4 +1,4 @@
-# Camera Matics C++ Programming Test
+# C++ Programming Test
 
 ## Set up
 
